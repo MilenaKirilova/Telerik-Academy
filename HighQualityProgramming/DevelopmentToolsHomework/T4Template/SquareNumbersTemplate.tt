@@ -1,0 +1,19 @@
+﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Linq" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".txt" #>
+<#
+   for(int i = 0; i < 10; i++)
+   {  WriteSquareLine(i); }
+#>
+End of list.
+<#+   // Class feature block
+private void WriteSquareLine(int i)
+{
+#>
+   The square of <#= i #> is <#= i*i #>.
+<#+   
+}
+#>

@@ -1,0 +1,5 @@
+C:\Users\Milena\Documents\Visual Studio 2013\Projects\DevelopmentToolsHomework\T4Template\bin\Debug\T4Template.exe.config
+C:\Users\Milena\Documents\Visual Studio 2013\Projects\DevelopmentToolsHomework\T4Template\bin\Debug\T4Template.exe
+C:\Users\Milena\Documents\Visual Studio 2013\Projects\DevelopmentToolsHomework\T4Template\bin\Debug\T4Template.pdb
+C:\Users\Milena\Documents\Visual Studio 2013\Projects\DevelopmentToolsHomework\T4Template\obj\Debug\T4Template.exe
+C:\Users\Milena\Documents\Visual Studio 2013\Projects\DevelopmentToolsHomework\T4Template\obj\Debug\T4Template.pdb
